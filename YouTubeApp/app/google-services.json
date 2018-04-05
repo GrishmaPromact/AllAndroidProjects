@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1054363319461",
+    "project_id": "youtubeplayer-163005"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054363319461:android:2b4ec16704f85344",
+        "android_client_info": {
+          "package_name": "com.promact.youtubedemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054363319461-g2sfh8uevktnjia3iieac21t83jokrpt.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1054363319461-0f6ns78ibhkd6bm6rhh83383fue99i8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.promact.youtubedemoapp",
+            "certificate_hash": "200fdbeefc3e03ddaddb866de0dcfb11902f3867"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8xaBEEGEg-DRU21ZcaD4eQRMKpWU5NpA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

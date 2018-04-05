@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "179674946082",
+    "project_id": "seraphic-dock-156206"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179674946082:android:3750f749bc813bde",
+        "android_client_info": {
+          "package_name": "com.promact.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179674946082-1l8ijkg6mcvlpn5tc6ia6403t9sjq46a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.promact.googlesignin",
+            "certificate_hash": "70485C594EEF8F9C7A8A9BE71EFDEA669476E347"
+          }
+        },
+        {
+          "client_id": "179674946082-4qceqikv1uafinodotd24jtvrqm5b594.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDORLIyj74jFA9w2GEsd2mcVRqlkk8Vp2s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

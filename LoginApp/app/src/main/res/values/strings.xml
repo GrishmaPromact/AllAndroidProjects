@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="err_msg_email">Please enter valid email address</string>
+    <string name="err_msg_password">Please enter valid password</string>
+    <string name="signUpLink"><a href="">Do not have an account?Sign Up</a></string>
+    <string name="forgetUsername"><a href="">FORGOT USERNAME</a></string>
+    <string name="forgetPassword"><a href="">FORGOT PASSWORD</a></string>
+    <string name="emailUsername">This will be your email username</string>
+    <string name="passwordSignup">Please enter password between 8 and 25 chracters,including atleast
+    one number and one special character.</string>
+</resources>

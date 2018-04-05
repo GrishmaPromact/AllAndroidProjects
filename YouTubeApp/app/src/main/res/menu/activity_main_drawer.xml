@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/best_of_utube"
+            android:title="Import" />
+        <item
+            android:id="@+id/recmnd_foru"
+            android:title="Gallery" />
+        <item
+            android:id="@+id/paid_chnls"
+            android:title="Slideshow" />
+        <item
+            android:id="@+id/music"
+            android:title="Tools" />
+        <item
+            android:id="@+id/comedy"
+            android:title="Share" />
+        <item
+            android:id="@+id/film_entrtnmnt"
+            android:title="Send" />
+        <item
+            android:id="@+id/gaming"
+            android:title="Send" />
+        <item
+            android:id="@+id/beauty_fsn"
+            android:title="Send" />
+        <item
+            android:id="@+id/from_tv"
+            android:title="Send" />
+        <item
+            android:id="@+id/automotive"
+            android:title="Send" />
+
+        <item
+            android:id="@+id/top_utube_cltns"
+            android:title="Import" />
+        <item
+            android:id="@+id/animation"
+            android:title="Gallery" />
+        <item
+            android:id="@+id/sports"
+            android:title="Slideshow" />
+        <item
+            android:id="@+id/howto_diy"
+            android:title="Tools" />
+        <item
+            android:id="@+id/tech"
+            android:title="Share" />
+        <item
+            android:id="@+id/sci_edu"
+            android:title="Send" />
+        <item
+            android:id="@+id/cooking_health"
+            android:title="Send" />
+        <item
+            android:id="@+id/causes_nonprofits"
+            android:title="Send" />
+        <item
+            android:id="@+id/news_politics"
+            android:title="Send" />
+        <item
+            android:id="@+id/lifestyle"
+            android:title="Send" />
+    </group>
+
+    <!--<item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>-->
+
+</menu>

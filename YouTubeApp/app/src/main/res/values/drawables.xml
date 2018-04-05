@@ -1,0 +1,23 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_menu_camera" type="drawable">@android:drawable/ic_menu_camera</item>
+    <item name="ic_menu_gallery" type="drawable">@android:drawable/ic_menu_gallery</item>
+    <item name="ic_menu_slideshow" type="drawable">@android:drawable/ic_menu_slideshow</item>
+    <item name="ic_menu_manage" type="drawable">@android:drawable/ic_menu_manage</item>
+    <item name="ic_menu_share" type="drawable">@android:drawable/ic_menu_share</item>
+    <item name="ic_menu_send" type="drawable">@android:drawable/ic_menu_send</item>
+    <item name="ic_menu_abc" type="drawable">@android:drawable/ic_menu_my_calendar</item>
+    <item name="ic_menu_bcd" type="drawable">@android:drawable/alert_dark_frame</item>
+    <item name="ic_menu_cde" type="drawable">@android:drawable/alert_light_frame</item>
+    <item name="ic_menu_def" type="drawable">@android:drawable/arrow_down_float</item>
+
+    <item name="ic_menu_efg" type="drawable">@android:drawable/ic_menu_camera</item>
+    <item name="ic_menu_fgh" type="drawable">@android:drawable/ic_menu_gallery</item>
+    <item name="ic_menu_ghi" type="drawable">@android:drawable/ic_menu_slideshow</item>
+    <item name="ic_menu_hij" type="drawable">@android:drawable/ic_menu_manage</item>
+    <item name="ic_menu_ijk" type="drawable">@android:drawable/ic_menu_share</item>
+    <item name="ic_menu_jkl" type="drawable">@android:drawable/ic_menu_send</item>
+    <item name="ic_menu_klm" type="drawable">@android:drawable/ic_menu_my_calendar</item>
+    <item name="ic_menu_lmn" type="drawable">@android:drawable/alert_dark_frame</item>
+    <item name="ic_menu_mno" type="drawable">@android:drawable/alert_light_frame</item>
+    <item name="ic_menu_nop" type="drawable">@android:drawable/arrow_down_float</item>
+</resources>
